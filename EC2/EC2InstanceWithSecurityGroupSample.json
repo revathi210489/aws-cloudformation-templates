@@ -1,0 +1,3 @@
+template-file-path: 04-Resources/04-01-cfn-ec2-instance.yml
+parameters: {}
+tags: {}
